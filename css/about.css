@@ -1,0 +1,20 @@
+body{
+    background-color: #f1dbdb;
+    margin: 80px;
+
+}
+
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+  padding-right: 150px;
+
+}
+
+
+a:hover {
+  color: black;
+
+}

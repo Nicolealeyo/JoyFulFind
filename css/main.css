@@ -1,0 +1,22 @@
+h1{
+    color: cornflowerblue;
+    font-size: 50px;
+    text-shadow: 4px 4px 8px black;
+}
+
+button{
+    background-color: indigo;
+    color: aliceblue;
+    width: 200px;
+    padding: 20px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: lightsalmon;
+}
+
+img{
+   width: 350px;
+    height: 300px;
+}
